@@ -1,6 +1,8 @@
 # Sammlung von Icons für Online-Shops und Kleidung
 
+# Lizenz
 
+MIT Lizenz
 
 # Ersteller
 

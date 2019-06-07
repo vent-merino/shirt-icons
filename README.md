@@ -1,4 +1,6 @@
-# Sammlung von Icons für Online-Shops und Kleidung
+# Icon Set für den online Verkauf von Unterhemden
+
+
 
 # Lizenz
 

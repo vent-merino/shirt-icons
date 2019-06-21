@@ -27,7 +27,7 @@ MIT Lizenz
 <table>
     <tr>
         <td>
-            <a target="_blank" href="https://www.vent-merino.de/?utm_source=github&utm_medium=website&utm_content=creator"><img src="https://www.vent-merino.de/wp-content/uploads/2019/04/Vent-Logo.svg" alt="Vent Merino Logo - 100% superfine Merino" title="Vent Merino Logo - 100% superfine Merino" style="max-width: 5rem;"></a>
+            <a target="_blank" href="https://www.vent-merino.de/?utm_source=github&utm_medium=website&utm_content=creator"><img src="https://mein.amwerke.de/userfiles/vent-merino/vent-logo.svg" alt="Vent Merino Logo - 100% superfine Merino" title="Vent Merino Logo - 100% superfine Merino" ></a>
         </td>
         <td>
         <a target="_blank" href="https://www.vent-merino.de/?utm_source=github&utm_medium=website&utm_content=credits">Vent-Merino.de - Funktionswäsche für Professionals</a>

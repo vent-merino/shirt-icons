@@ -1,19 +1,8 @@
 # Icon Set für den online Verkauf von Unterhemden
 
-<table>
-    <tr>
-        <td>
-            <a target="_blank" href="merino-unterhemd-v-ausschnitt.svg"><img src="merino-unterhemd-v-ausschnitt.svg" alt="Superfine Merino Shirt" title="V-Ausschnitt Unterhemd" style="max-width:100%;"></a>
-        </td>
-        <td>
-            <a target="_blank" href="merino-unterhemd-rund-ausschnitt.svg"><img src="merino-unterhemd-rund-ausschnitt.svg?sanitize=true" alt="Superfine Merino Shirt" title="Rundausschnitt Unterhemd" style="max-width:100%;"></a>
-        </td>
-        <td>
-            <a target="_blank" href="merino-unterhemd-rueckansicht.svg"><img src="merino-unterhemd-rueckansicht.svg?sanitize=true" alt="Superfine Merino Shirt" title="Rückansicht Unterhemd" style="max-width:100%;"></a></p>
-        </td>
-        <td>
-    </tr>
-</table>
+## Vorschau auf die Shirt-Icons:
+
+<img src="https://mein.amwerke.de/userfiles/vent-merino/vent-merino-shirt-icons-version-1.0.png" alt="Vent Merino Icon Set für Shirts" title="Vent Merino Icon Set für Shirts">
 
 Weitere Informationen unter <a href="https://www.amwerke.de/@vent-merino/vent-merino-shirt-icons?utm_source=github&utm_medium=website&utm_content=additional-information">Vent Merino Shirt Icons</a> (bei <a href="https://www.amwerke.de">amWerke.de</a>). 
 

@@ -1,6 +1,6 @@
 # Icon Set für den online Verkauf von Unterhemden
 
-## Vorschau auf die Shirt-Icons:
+## Vorschau auf die Shirt Icons:
 
 <img src="https://mein.amwerke.de/userfiles/vent-merino/vent-merino-shirt-icons-version-1.0.png" alt="Vent Merino Icon Set für Shirts" title="Vent Merino Icon Set für Shirts">
 
